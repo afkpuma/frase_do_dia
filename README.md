@@ -1,4 +1,4 @@
-# app2
+# Frase do Dia
 
 A new Flutter project.
 
